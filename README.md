@@ -1,6 +1,8 @@
 # cruelscript
 cruelscript implementation in c++.
 
+cruelscript is a subset of brainf*ck. The only difference is cruelscript only uses '+', '-' and '.'
+
 to use: 
 
     1. make sure you have a c++ compiler available.
