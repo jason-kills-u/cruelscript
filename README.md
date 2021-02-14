@@ -1,7 +1,7 @@
 # cruelscript
 cruelscript implementation in c++.
 
-cruelscript is a subset of brainf*ck. The only difference is cruelscript only uses '+', '-' and '.'
+cruelscript is a a programming language inspired by brainf*ck. The only difference is cruelscript only uses '+', '-' and '.'
 
 to use: 
 
