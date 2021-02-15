@@ -1,5 +1,5 @@
 # cruelscript
-cruelscript implementation in c++.
+cruelscript implementation written in pure c++.
 
 cruelscript is a a programming language inspired by brainf*ck. The only difference is cruelscript only uses '+', '-' and '.'
 
