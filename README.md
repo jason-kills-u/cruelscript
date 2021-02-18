@@ -1,24 +1,18 @@
-# cruelscript
-cruelscript implementation written in pure c++.
+GUIDE FOR CRUELSCRIPT
 
-cruelscript is a a programming language inspired by brainf*ck. The only difference is cruelscript only uses '+', '-' and '.'
+CruelScript is an esoteric programming language. It is well? Cruel, it uses only three symbols: '+', '-' and '.'. It is designed to be a recreational programming language...
 
-to use: 
+The programming language is using the ascii value of characters. It starts with 65(which is 'A') and can be decreased using '-' and increased using '+'.
 
-    1. make sure you have a c++ compiler available.
-  
-    2. using a command line navigate through the cruelscript folder.
-  
-    3. navigate to the bin folder.
-  
-    4. compile main.cpp.
-  
-    5. run.
-  
-    6. and you are set to use!...
-  
-aditional tips:
-  
-    for windows:
-    
-      add C:/blah blah/cruelscript/bin to the enviroment variable so you can access it from anywhere...
+The '.' symbol is used to print out the ascii value that you just increased and/or decreased.
+
+EXAMPLE
+
+Run cruelscript sample/sample.crs in your terminal to run a sample file.
+
+The output should be AB. It is because inside the file is ".+.". Let's break it down into smaller parts..
+The first character is '.'. Because the default ascii value in CruelScript is 65, it will print out 'A' which has 65 as it's ascii value. Then there is a '+', it increases the ascii value by one, so the ascii value is now 66. And then finally there is a '.' it simply prints out the character representation of the ascii value of 66 which is 'B'.
+
+Then run cruelscript int your terminal and you should see an interactive program.
+
+Try to type ".." and it's output should be "AA", why and how is left as an exercise for the reader...
