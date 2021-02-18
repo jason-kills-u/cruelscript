@@ -1,4 +1,4 @@
-# cruelscript
-cruelscript implementation in c++
+# CruelScript
+## CruelsScript implementation in c++
 
-cruelscript is a recreational programming language which uses only three symbols '.', '+' and '-'. Please refer to the wiki for more information
+CruelScript is a recreational programming language which uses only three symbols '.', '+' and '-'. Please refer to the wiki for more information...
