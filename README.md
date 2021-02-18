@@ -2,7 +2,7 @@ GUIDE FOR CRUELSCRIPT
 
 CruelScript is an esoteric programming language. It is well? Cruel, it uses only three symbols: '+', '-' and '.'. It is designed to be a recreational programming language...
 
-The programming language is using the ascii value of characters. It starts with 65(which is 'A') and can be decreased using '-' and increased using '+'.
+The programming language is using the ascii value of characters. It's default value 65(which is 'A') and can be decreased using '-' and increased using '+'.
 
 The '.' symbol is used to print out the ascii value that you just increased and/or decreased.
 
